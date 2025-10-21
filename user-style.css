@@ -1,0 +1,15 @@
+#custom-pomodoro {
+    color: #FEE715; 
+}
+
+#custom-pomodoro.work {
+    color: #FF6347; 
+}
+
+#custom-pomodoro.break {
+    color: #3CB371; 
+}
+
+#custom-pomodoro.pause {
+    color: #FFC0CB;
+}
